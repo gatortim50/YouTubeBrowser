@@ -1,13 +1,18 @@
 ### Project bootstrapped using [create-react-app](https://github.com/facebookincubator/create-react-app)
 * clone the repo
+*
 ```
-git clone git@github.com:gatortim50/youtubebrowser.git
+git clone git@github.com:gatortim50/YouTubeBrowser.git
 ```
+
 * cd into repo and install the dependencies
+*
 ```
 npm install
 ```
+
 * run the project
+
 ```
 npm start
 ```
