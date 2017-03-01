@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Youtube API package for Redux with React and Babel support",
   "private": true,
-  "repository": "git@github.com:gatortim50/youtubedataapi.git",
+  "repository": "git@github.com:gatortim50/YouTubeBrowser.git",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "eslint": "^3.15.0",
@@ -29,7 +29,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test --env=jsdom"
   }
 }
