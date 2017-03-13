@@ -1,5 +1,5 @@
 ### Project bootstrapped using [create-react-app](https://github.com/facebookincubator/create-react-app)
-* clone the repo
+* clone the  repo
 
 ```
 git clone git@github.com:gatortim50/YouTubeBrowser.git
